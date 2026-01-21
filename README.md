@@ -11,10 +11,21 @@ El enfoque se centró en comprender los datos, validar supuestos y generar concl
 
 ---
 
-## 🎯 Objetivo
-- Analizar datos utilizando herramientas analíticas.
-- Aplicar consultas y transformaciones para responder preguntas de negocio.
-- Extraer conclusiones basadas en datos.
+🎯 Objetivo
+Aplicar análisis exploratorio y consultas de datos para apoyar decisiones de negocio basadas en información estructurada.
+
+🛠️ Herramientas
+- Python
+- pandas
+- NumPy
+- SQL
+- Jupyter Notebook
+
+📌 Alcance
+- Exploración y comprensión del dataset
+- Limpieza y transformación de datos
+- Análisis orientado a negocio
+- Obtención de insights para soporte a decisiones
 
 ---
 
